@@ -1,0 +1,6 @@
+astropy
+jupyterlab
+jupytext
+matplotlib
+nbstripout
+numpy
